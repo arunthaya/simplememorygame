@@ -1,8 +1,4 @@
 /* - Developed by: Arun Thayanithy
-	 S.N. - 100887220
-	 Course - COMP 2406
-	 Assignment 2
-	 Date : March 7th, 2017
 */
 
 //Global variables created to store necesary information that is needed for the page to work, so the variables aren't cleared with the functions
